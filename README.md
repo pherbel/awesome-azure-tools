@@ -28,8 +28,6 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 
 ## Other Awesome lists
 
-[Awesome Akka](https://github.com/homerquan/awesome-akka)
-
 ## Frameworks, Libraries, SDKs
 
 ## Azure DevOps
