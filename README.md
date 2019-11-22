@@ -1,14 +1,38 @@
-# Awesome Azure Tools
+# Awesome Azure Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Useful Tools for Azure development
+This is an awesome list of actor model resources.
+
+Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
+
+Contributions are always welcome!
+
+Thanks to all [contributors](https://github.com/GetTech-io/awesome-actor/graphs/contributors), you're awesome and wouldn't be possible without you!
+
+Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio](https://twitter.com/GetTechio)!
+
+## Contents
+
+- [Awesome Azure Tools ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-azure-tools-awesomehttpsgithubcomsindresorhusawesome)
+  - [Contents](#contents)
+  - [General](#general)
+  - [Other Awesome lists](#other-awesome-lists)
+  - [Frameworks, Libraries, SDKs](#frameworks-libraries-sdks)
+  - [Azure DevOps](#azure-devops)
+
+## General
 
 [ASP.NET Core versions on App Service Dashboard](https://aspnetcoreon.azurewebsites.net/)  
 [Azure Region Latency Test](http://www.azurespeed.com/)  
 [Azure Region Speed Test](http://azurespeedtest.azurewebsites.net/) - [Source](https://github.com/richorama/AzureSpeedTest2)
-[Azure Charts](https://azurecharts.com/)  
+[Azure Charts](https://azurecharts.com/) 
+
+## Other Awesome lists
+
+[Awesome Akka](https://github.com/homerquan/awesome-akka)
+
+## Frameworks, Libraries, SDKs
+
+## Azure DevOps
 
 [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/)  
 [Azure DevOps Labs](https://www.azuredevopslabs.com/)
-
-## Other Azure Awesome lists
-
