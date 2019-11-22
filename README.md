@@ -14,17 +14,22 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 
 - [Awesome Azure Tools ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-azure-tools-awesomehttpsgithubcomsindresorhusawesome)
   - [Contents](#contents)
-  - [General](#general)
+  - [General tools](#general-tools)
+  - [Azure Resources](#azure-resources)
   - [Other Awesome lists](#other-awesome-lists)
   - [Frameworks, Libraries, SDKs](#frameworks-libraries-sdks)
   - [Azure DevOps](#azure-devops)
 
-## General
+## General tools
 
 [ASP.NET Core versions on App Service Dashboard](https://aspnetcoreon.azurewebsites.net/)  
 [Azure Region Latency Test](http://www.azurespeed.com/)  
 [Azure Region Speed Test](http://azurespeedtest.azurewebsites.net/) - [Source](https://github.com/richorama/AzureSpeedTest2)
-[Azure Charts](https://azurecharts.com/) 
+[Azure Charts](https://azurecharts.com/)  
+
+## Azure Resources
+
+[Azure API Management DevOps Resource Kit](https://github.com/Azure/azure-api-management-devops-resource-kit)  
 
 ## Other Awesome lists
 
@@ -34,3 +39,4 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 
 [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/)  
 [Azure DevOps Labs](https://www.azuredevopslabs.com/)
+
