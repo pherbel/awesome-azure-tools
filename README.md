@@ -12,7 +12,7 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 
 ## Contents
 
-- [Awesome Azure Tools <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">](#awesome-azure-tools-img-src%22httpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg%22-alt%22awesome%22)
+- [Awesome Azure Tools ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-azure-tools-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
   - [Contents](#contents)
   - [General tools](#general-tools)
   - [Azure Resources](#azure-resources)
@@ -32,6 +32,7 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 [Azure API Management DevOps Resource Kit](https://github.com/Azure/azure-api-management-devops-resource-kit)  
 [Azure Stencils](https://github.com/azurekid/Azure-Stencils)  
 [Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack for Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio)
+[Secure DevOps Kit for Azure](https://github.com/azsk/DevOpsKit-docs)  
 
 ## Other Awesome lists
 
