@@ -26,6 +26,7 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 [Azure Region Latency Test](http://www.azurespeed.com/)  
 [Azure Region Speed Test](http://azurespeedtest.azurewebsites.net/) - [Source](https://github.com/richorama/AzureSpeedTest2)
 [Azure Charts](https://azurecharts.com/)  
+[Azure Apps Demo Map](https://azureappsdemomap.com/map)  
 
 ## Azure Resources
 
