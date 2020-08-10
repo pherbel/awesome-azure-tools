@@ -27,13 +27,14 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 [Azure Region Speed Test](http://azurespeedtest.azurewebsites.net/) - [Source](https://github.com/richorama/AzureSpeedTest2)
 [Azure Charts](https://azurecharts.com/)  
 [Azure Apps Demo Map](https://azureappsdemomap.com/map)  
-
+[Azure Region Price Comparision](https://azureprice.net/Region)
 ## Azure Resources
 
 [Azure API Management DevOps Resource Kit](https://github.com/Azure/azure-api-management-devops-resource-kit)  
 [Azure Stencils](https://github.com/azurekid/Azure-Stencils)  
 [Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack for Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio)
 [Secure DevOps Kit for Azure](https://github.com/azsk/DevOpsKit-docs)  
+[ARM Visualizer](http://armviz.io/)
 
 ## Other Awesome lists
 
