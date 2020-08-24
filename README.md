@@ -28,6 +28,7 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 [Azure Charts](https://azurecharts.com/)  
 [Azure Apps Demo Map](https://azureappsdemomap.com/map)  
 [Azure Region Price Comparision](https://azureprice.net/Region)
+[Azure SDKs](https://azure.github.io/azure-sdk/)
 ## Azure Resources
 
 [Azure API Management DevOps Resource Kit](https://github.com/Azure/azure-api-management-devops-resource-kit)  
