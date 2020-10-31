@@ -40,7 +40,7 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 ## Other Awesome lists
 
 ## Frameworks, Libraries, SDKs
-
+[SDK Search](https://azure.github.io/azure-sdk)
 ## Azure DevOps
 
 [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/)  
